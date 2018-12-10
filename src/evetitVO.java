@@ -1,4 +1,4 @@
-package com.EVENT_TITLE.model;
+
 
 public class evetitVO {
 
